@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartEye</string>
+    <string name="camera_permission_denied">需要摄像头权限才能使用应用</string>
+</resources>
